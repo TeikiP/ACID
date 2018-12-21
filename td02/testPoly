@@ -1,0 +1,7 @@
+
+%P = [5, 2, 3]
+P = [30 -61 41 -11 1]
+
+x = 2;
+valeurPoly = valeurPolynome(P, x)
+derivPoly = derivPoly(P)
